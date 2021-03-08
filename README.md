@@ -1,2 +1,2 @@
 # wget_linker
-wget, link, site, download
+Allows you to download site pages for further offline viewing.
